@@ -127,10 +127,10 @@ margin-right
   background-color: #ffffff;
   color:#475F45;
   }
-  .about__top {
+  .about {
     background-color: #475f45;
     color: #ffffff;
-    width: 100%;
+    
   }
 
  .about__info  {
@@ -140,3 +140,33 @@ font-weight: 400;
 font-size: 20px;
 line-height: 150%;
 } 
+.news__img-wrap {
+  width: 219px;  
+}
+.subtitle {
+  font-size: 45px;
+  text-transform: capitalize;   
+}
+.news__img {
+  width: 236px;
+  height: 151px;
+
+}
+.ightnews__item {
+  display: flex;
+  justify-content: left;
+}
+
+.news__item {
+  display: flex;
+}
+.news__item-text {
+  font-size: 16px;
+}
+.news__item-title {
+  font-size: 23px;
+}
+.news__item-desc 
+{
+  margin-left: 30px;
+}
