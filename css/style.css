@@ -159,7 +159,7 @@ padding: 20px 0px;
   object-fit: cover;
 }
 
-.about__top-img {
+.about__top-img-wrap {
   overflow: hidden;
   margin-right: 7%;
   width: 534px;
@@ -173,11 +173,8 @@ padding: 20px 0px;
 }
 .about__desc {
   width: 417px;
-  order: 1; 
 }
-@media (max-width:768px) {
 
-}
 .about__top {
   flex-direction: column;
 }
